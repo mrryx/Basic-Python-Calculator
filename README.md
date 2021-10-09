@@ -1,4 +1,4 @@
-# calculator
+# Python Calculator
 A very bad, yet still usable calculator created in Python.
 
 
